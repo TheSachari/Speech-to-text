@@ -1,0 +1,2 @@
+Donc là, c'est avec le model SMALL, c'est censé mieux fonctionner et l'idéal ce serait que je puisse parler comme ça et que ça m'enregistre tout sans faire de faute.
+Reste à savoir où il place les virgules mais bon à la limite je peux me débrouiller avec.
